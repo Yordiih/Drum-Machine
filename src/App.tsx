@@ -99,6 +99,7 @@ function App() {
   };
 
   return (
+    <React.Fragment>
     <div className="container" id="drum-machine">
       <div className="whole-drum">
         {audioClips.map((clip) => (
@@ -108,6 +109,7 @@ function App() {
 
       <div id="display">{display}</div>
     </div>
+    </React.Fragment>
   );
 }
 
