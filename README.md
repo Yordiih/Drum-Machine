@@ -1,0 +1,1 @@
+This is a drum machine project built as part of the FreeCodeCamp front-end development curriculum. The drum machine allows users to trigger different drum sounds by clicking on the corresponding pad or pressing the associated key on the keyboard.
